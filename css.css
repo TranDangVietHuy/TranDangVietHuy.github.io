@@ -37,7 +37,7 @@ h2{
     font-size: 3em;
 }
 h2::before{
-    content:url("/CRUST PIZZA/Pizza_Pepperoni.png"),style(width="20px",height="20px");
+    content:url("../css hw starter 1/Pizza_Pepperoni.png"),style(width="20px",height="20px");
     
 }
 li{
@@ -63,7 +63,7 @@ body{
 
 .container img{
     width: 100%;
-    height:30%;
+    height:500px;
     padding:0;
     border:0;
 }
